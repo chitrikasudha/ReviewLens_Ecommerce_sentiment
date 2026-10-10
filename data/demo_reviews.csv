@@ -1,0 +1,12 @@
+Website,Product,Rating,Review,Sentiment
+Amazon,Headphones,5,Excellent sound quality and comfortable to wear,Positive
+Amazon,Headphones,1,Very poor sound quality and stopped working,Negative
+Amazon,Headphones,3,The headphones work as expected,Neutral
+Amazon,Smartphone,5,Great battery life and excellent camera,Positive
+Amazon,Smartphone,1,The battery drains quickly and camera is poor,Negative
+Flipkart,Smartwatch,5,Beautiful design and useful features,Positive
+Flipkart,Smartwatch,1,The watch broke after two days,Negative
+Myntra,Shoes,5,Very comfortable shoes with excellent quality,Positive
+Myntra,Shoes,1,Poor material and uncomfortable fit,Negative
+Walmart,Speaker,5,Excellent sound and great value for money,Positive
+Walmart,Speaker,1,The speaker sounds terrible,Negative
